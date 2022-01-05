@@ -1,0 +1,14 @@
+/home/lukasz/Dokumenty/nauka/studia/jnp3/tic-tac-toe/linux/CMakeFiles/install/strip.dir
+/home/lukasz/Dokumenty/nauka/studia/jnp3/tic-tac-toe/linux/CMakeFiles/install/local.dir
+/home/lukasz/Dokumenty/nauka/studia/jnp3/tic-tac-toe/linux/CMakeFiles/install.dir
+/home/lukasz/Dokumenty/nauka/studia/jnp3/tic-tac-toe/linux/CMakeFiles/list_install_components.dir
+/home/lukasz/Dokumenty/nauka/studia/jnp3/tic-tac-toe/linux/CMakeFiles/rebuild_cache.dir
+/home/lukasz/Dokumenty/nauka/studia/jnp3/tic-tac-toe/linux/CMakeFiles/edit_cache.dir
+/home/lukasz/Dokumenty/nauka/studia/jnp3/tic-tac-toe/linux/CMakeFiles/tictactoe.dir
+/home/lukasz/Dokumenty/nauka/studia/jnp3/tic-tac-toe/linux/flutter/CMakeFiles/install/strip.dir
+/home/lukasz/Dokumenty/nauka/studia/jnp3/tic-tac-toe/linux/flutter/CMakeFiles/install/local.dir
+/home/lukasz/Dokumenty/nauka/studia/jnp3/tic-tac-toe/linux/flutter/CMakeFiles/install.dir
+/home/lukasz/Dokumenty/nauka/studia/jnp3/tic-tac-toe/linux/flutter/CMakeFiles/list_install_components.dir
+/home/lukasz/Dokumenty/nauka/studia/jnp3/tic-tac-toe/linux/flutter/CMakeFiles/rebuild_cache.dir
+/home/lukasz/Dokumenty/nauka/studia/jnp3/tic-tac-toe/linux/flutter/CMakeFiles/edit_cache.dir
+/home/lukasz/Dokumenty/nauka/studia/jnp3/tic-tac-toe/linux/flutter/CMakeFiles/flutter_assemble.dir
